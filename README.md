@@ -7,7 +7,7 @@
 Joel Erulu
 
 ### Organization: 
-ITEC 3860, Software Development – Group 
+Software Development 
 
 ### Draft: 
 2.0
