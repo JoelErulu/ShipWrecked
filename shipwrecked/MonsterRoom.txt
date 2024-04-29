@@ -1,0 +1,9 @@
+CREATE TABLE MonsterRoom(monsterID int not null, roomID int not null);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(1, 3);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(2, 2);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(3, 4);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(4, 8);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(5, 21);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(6, 33);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(7, 34);
+INSERT INTO MonsterRoom(monsterID, roomID) Values(8, 25);

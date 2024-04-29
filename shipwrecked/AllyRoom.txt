@@ -1,0 +1,5 @@
+CREATE TABLE AllyRoom(alliesID int not null, roomID int not null);
+INSERT INTO AllyRoom(alliesID, roomID) Values(4, 33);
+INSERT INTO AllyRoom(alliesID, roomID) Values(2, 8);
+INSERT INTO AllyRoom(alliesID, roomID) Values(3, 9);
+INSERT INTO AllyRoom(alliesID, roomID) Values(1, 12);

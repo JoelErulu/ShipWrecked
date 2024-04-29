@@ -1,0 +1,9 @@
+CREATE TABLE Monster (monsterID int Primary Key not Null, monsterName VARCHAR(50), monsterHealth int, monsterAttack int, monsterPoints int);
+INSERT INTO Monster VALUES(1, 'Anaconda', 150, 20, 1000);
+INSERT INTO Monster VALUES(2, 'Caiman', 200, 30, 1000);
+INSERT INTO Monster VALUES(3, 'Jaguar', 210, 35, 1000);
+INSERT INTO Monster VALUES(4, 'Tiger', 500, 500, 1000);
+INSERT INTO Monster VALUES(5, 'Horse-eater', 1000, 75, 4000);
+INSERT INTO Monster VALUES(6, 'Goblin', 150, 30, 200);
+INSERT INTO Monster VALUES(7, 'Goblin’s king', 1500, 1000, 50000);
+INSERT INTO Monster VALUES(8, 'Bandit', 500, 40, 1000);

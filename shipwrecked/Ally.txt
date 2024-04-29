@@ -1,0 +1,5 @@
+CREATE TABLE Ally (alliesID int Primary Key not Null, alliesName VARCHAR(50), weaponName VARCHAR(50), alliesHealth int, alliesEnergy int, alliesDamage int);
+INSERT INTO Ally VALUES(1, 'HitchHiker', 'Barehand' , 500, 100, 100);
+INSERT INTO Ally VALUES(2, 'Tribesman', 'Spear', 500, 100, 130);
+INSERT INTO Ally VALUES(3, 'LumberJack', 'Axe', 500, 100, 150);
+INSERT INTO Ally VALUES(4, 'Knight', 'Sword', 500, 100, 200);
