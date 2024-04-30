@@ -45,6 +45,12 @@ April 21, 2024
 
 ---
 
+## Screenshots
+
+![Screenshot 1](/src/screenshot1.JPG)
+![Screenshot 2](/src/screenshot2.JPG)
+![Screenshot 2](/src/screenshot3.JPG)
+
 ## 1: Introduction
 
 ### 1.1 Purpose:
