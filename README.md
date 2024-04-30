@@ -47,9 +47,9 @@ April 21, 2024
 
 ## Screenshots
 
-![Screenshot 1](/src/screenshot1.JPG)
-![Screenshot 2](/src/screenshot2.JPG)
-![Screenshot 2](/src/screenshot3.JPG)
+![Screenshot 1](/shipwrecked/screenshot1.JPG)
+![Screenshot 2](/shipwrecked/screenshot2.JPG)
+![Screenshot 2](/shipwrecked/screenshot3.JPG)
 
 ## 1: Introduction
 
